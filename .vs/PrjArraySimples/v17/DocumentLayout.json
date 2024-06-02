@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jemer\\Downloads\\New folder\\C#\\PrjArraySimples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24B61540-A198-4397-A5CE-D2C8BA8E7BDF}|PrjArraySimples\\PrjArraySimples.csproj|c:\\users\\jemer\\downloads\\new folder\\c#\\prjarraysimples\\prjarraysimples\\frmarraysimples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24B61540-A198-4397-A5CE-D2C8BA8E7BDF}|PrjArraySimples\\PrjArraySimples.csproj|solutionrelative:prjarraysimples\\frmarraysimples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B61540-A198-4397-A5CE-D2C8BA8E7BDF}|PrjArraySimples\\PrjArraySimples.csproj|c:\\users\\jemer\\downloads\\new folder\\c#\\prjarraysimples\\prjarraysimples\\frmarraysimples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B61540-A198-4397-A5CE-D2C8BA8E7BDF}|PrjArraySimples\\PrjArraySimples.csproj|solutionrelative:prjarraysimples\\frmarraysimples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmArraySimples.cs",
+              "DocumentMoniker": "C:\\Users\\jemer\\Downloads\\New folder\\C#\\PrjArraySimples\\PrjArraySimples\\FrmArraySimples.cs",
+              "RelativeDocumentMoniker": "PrjArraySimples\\FrmArraySimples.cs",
+              "ToolTip": "C:\\Users\\jemer\\Downloads\\New folder\\C#\\PrjArraySimples\\PrjArraySimples\\FrmArraySimples.cs",
+              "RelativeToolTip": "PrjArraySimples\\FrmArraySimples.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T02:44:01.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmArraySimples.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jemer\\Downloads\\New folder\\C#\\PrjArraySimples\\PrjArraySimples\\FrmArraySimples.cs",
+              "RelativeDocumentMoniker": "PrjArraySimples\\FrmArraySimples.cs",
+              "ToolTip": "C:\\Users\\jemer\\Downloads\\New folder\\C#\\PrjArraySimples\\PrjArraySimples\\FrmArraySimples.cs [Design]",
+              "RelativeToolTip": "PrjArraySimples\\FrmArraySimples.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T02:43:18.087Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

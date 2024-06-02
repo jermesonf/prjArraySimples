@@ -1,0 +1,26 @@
+C:\Users\Lab\Desktop\PrjArraySimples\PrjArraySimples\bin\Debug\PrjArraySimples.exe.config
+C:\Users\Lab\Desktop\PrjArraySimples\PrjArraySimples\bin\Debug\PrjArraySimples.exe
+C:\Users\Lab\Desktop\PrjArraySimples\PrjArraySimples\bin\Debug\PrjArraySimples.pdb
+C:\Users\Lab\Desktop\PrjArraySimples\PrjArraySimples\bin\Debug\MetroFramework.Design.dll
+C:\Users\Lab\Desktop\PrjArraySimples\PrjArraySimples\bin\Debug\MetroFramework.dll
+C:\Users\Lab\Desktop\PrjArraySimples\PrjArraySimples\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Lab\Desktop\PrjArraySimples\PrjArraySimples\obj\Debug\PrjArraySimples.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\PrjArraySimples\PrjArraySimples\obj\Debug\PrjArraySimples.FrmArraySimples.resources
+C:\Users\Lab\Desktop\PrjArraySimples\PrjArraySimples\obj\Debug\PrjArraySimples.Properties.Resources.resources
+C:\Users\Lab\Desktop\PrjArraySimples\PrjArraySimples\obj\Debug\PrjArraySimples.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\PrjArraySimples\PrjArraySimples\obj\Debug\PrjArraySimples.exe
+C:\Users\Lab\Desktop\PrjArraySimples\PrjArraySimples\obj\Debug\PrjArraySimples.pdb
+C:\Users\jemer\Downloads\New folder\C#\PrjArraySimples\PrjArraySimples\bin\Debug\PrjArraySimples.exe.config
+C:\Users\jemer\Downloads\New folder\C#\PrjArraySimples\PrjArraySimples\bin\Debug\PrjArraySimples.exe
+C:\Users\jemer\Downloads\New folder\C#\PrjArraySimples\PrjArraySimples\bin\Debug\PrjArraySimples.pdb
+C:\Users\jemer\Downloads\New folder\C#\PrjArraySimples\PrjArraySimples\bin\Debug\MetroFramework.Design.dll
+C:\Users\jemer\Downloads\New folder\C#\PrjArraySimples\PrjArraySimples\bin\Debug\MetroFramework.dll
+C:\Users\jemer\Downloads\New folder\C#\PrjArraySimples\PrjArraySimples\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\jemer\Downloads\New folder\C#\PrjArraySimples\PrjArraySimples\obj\Debug\PrjArraySimples.csproj.AssemblyReference.cache
+C:\Users\jemer\Downloads\New folder\C#\PrjArraySimples\PrjArraySimples\obj\Debug\PrjArraySimples.FrmArraySimples.resources
+C:\Users\jemer\Downloads\New folder\C#\PrjArraySimples\PrjArraySimples\obj\Debug\PrjArraySimples.Properties.Resources.resources
+C:\Users\jemer\Downloads\New folder\C#\PrjArraySimples\PrjArraySimples\obj\Debug\PrjArraySimples.csproj.GenerateResource.cache
+C:\Users\jemer\Downloads\New folder\C#\PrjArraySimples\PrjArraySimples\obj\Debug\PrjArraySimples.csproj.CoreCompileInputs.cache
+C:\Users\jemer\Downloads\New folder\C#\PrjArraySimples\PrjArraySimples\obj\Debug\PrjArray.A4B83AD5.Up2Date
+C:\Users\jemer\Downloads\New folder\C#\PrjArraySimples\PrjArraySimples\obj\Debug\PrjArraySimples.exe
+C:\Users\jemer\Downloads\New folder\C#\PrjArraySimples\PrjArraySimples\obj\Debug\PrjArraySimples.pdb
